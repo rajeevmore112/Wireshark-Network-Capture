@@ -57,5 +57,5 @@ The capture confirmed DNS for domain resolution, TCP for reliable transport, and
 
 Wireshark-Network-Capture
  ├─ README.md 
- ├─ Wireshark_Ethernet_2025_10_27.pcapng
+ ├─ Wireshark_Ethernet_2025_10_27.pcapng.gz  [Packet List 1 - 6000]
  └─ screenshots
